@@ -147,5 +147,35 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".validus_bluegrey"
+            android:label="Validus BlueGrey" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".validus_mint"
+            android:label="Validus Mint" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".validus_yellow"
+            android:label="Validus Yellow" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
     </application>
 </manifest>
