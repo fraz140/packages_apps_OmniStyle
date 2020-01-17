@@ -20,14 +20,14 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
-    <random_header image="validus_yellow_01" />
-    <random_header image="validus_yellow_02" />
-    <random_header image="validus_yellow_03" />
-    <random_header image="validus_yellow_04" />
-    <random_header image="validus_yellow_05" />
-    <random_header image="validus_yellow_06" />
-    <random_header image="validus_yellow_07" />
-    <random_header image="validus_yellow_08" />
-    <random_header image="validus_yellow_09" />
-    <random_header image="validus_yellow_10" />
+    <random_header image="validus_wolfshield_bluegrey_01" />
+    <random_header image="validus_wolfshield_bluegrey_02" />
+    <random_header image="validus_wolfshield_bluegrey_03" />
+    <random_header image="validus_wolfshield_bluegrey_04" />
+    <random_header image="validus_wolfshield_bluegrey_05" />
+    <random_header image="validus_wolfshield_bluegrey_06" />
+    <random_header image="validus_wolfshield_bluegrey_07" />
+    <random_header image="validus_wolfshield_bluegrey_08" />
+    <random_header image="validus_wolfshield_bluegrey_09" />
+    <random_header image="validus_wolfshield_bluegrey_10" />
 </daylight_headers>

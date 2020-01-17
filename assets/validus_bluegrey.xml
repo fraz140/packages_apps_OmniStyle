@@ -30,5 +30,4 @@ day_header entries have a higher priority then hour entries -->
     <random_header image="validus_bluegrey_08" />
     <random_header image="validus_bluegrey_09" />
     <random_header image="validus_bluegrey_10" />
-    <random_header image="validus_bluegrey_11" />
 </daylight_headers>
