@@ -59,7 +59,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity-alias
             android:name=".WallpaperActivity"
-            android:label="@string/omni_walls"
+            android:label="@string/validus_walls"
             android:targetActivity="org.omnirom.omnistyle.BrowseWallsActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.SET_WALLPAPER" />
@@ -114,15 +114,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <activity
             android:name=".wavvy"
             android:label="Wavvy" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-
-        <activity
-            android:name=".theme"
-            android:label="Theme" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
                 <category android:name="android.intent.category.DEFAULT" />

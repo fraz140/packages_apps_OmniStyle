@@ -16,8 +16,38 @@
  -->
 
 <wallpapers>
-    <wallpaper image="omni_new1" creator="JayRod" name="Wallpaper 001" />
-    <wallpaper image="omni_new3" creator="JayRod" name="Wallpaper 002"/>
-    <wallpaper image="wall10" creator="JP Kenji" name="Wallpaper 003"/>
-    <wallpaper image="wall16" creator="JP Kenji" name="Wallpaper 004"/>
+    <wallpaper image="01_validus_big_top" creator="scoobyjenkins" name="01 Validus Big Top" />
+    <wallpaper image="01_validus_clown" creator="scoobyjenkins" name="01 Validus Clown"/>
+    <wallpaper image="02_validus_so_much_flavour" creator="scoobyjenkins" name="02 Validus So Much Flavour"/>
+    <wallpaper image="03_validus_style_black_green" creator="scoobyjenkins" name="03 Validus Style Black/ Green"/>
+    <wallpaper image="03_validus_style_black_red" creator="scoobyjenkins" name="03 Validus Style Black/ Red" />
+    <wallpaper image="03_validus_style_black_white" creator="scoobyjenkins" name="03 Validus Style Black/ White"/>
+    <wallpaper image="03_validus_style_blue_black" creator="scoobyjenkins" name="03 Validus Style Blue/ Black"/>
+    <wallpaper image="03_validus_style_pink_black" creator="scoobyjenkins" name="03 Validus Style Pink/ Black"/>
+    <wallpaper image="03_validus_style_purple_black" creator="scoobyjenkins" name="03 Validus Style Purple/ Black" />
+    <wallpaper image="03_validus_style_red_black" creator="scoobyjenkins" name="03 Validus Style Red/ Black"/>
+    <wallpaper image="03_validus_style_teal_black" creator="scoobyjenkins" name="03 Validus Style Teal/ Black"/>
+    <wallpaper image="03_validus_style_yellow_black" creator="scoobyjenkins" name="03 Validus Style Yellow/ Black"/>
+    <wallpaper image="04_validus_style_splatter_green" creator="scoobyjenkins" name="04 Validus Style Splatter Green" />
+    <wallpaper image="04_validus_style_splatter_rainbow" creator="scoobyjenkins" name="04 Validus Style Splatter Rainbow"/>
+    <wallpaper image="04_validus_style_splatter_white" creator="scoobyjenkins" name="04 Validus Style Splatter White"/>
+    <wallpaper image="05_validus_electric" creator="scoobyjenkins" name="05 Validus Electric"/>
+    <wallpaper image="05_validus_ghost" creator="scoobyjenkins" name="05 Validus Ghost" />
+    <wallpaper image="05_validus_moonrise_black" creator="scoobyjenkins" name="05 Validus Moonrise Black"/>
+    <wallpaper image="05_validus_moonrise_teal" creator="scoobyjenkins" name="05 Validus Moonrise Teal"/>
+    <wallpaper image="05_validus_shield" creator="scoobyjenkins" name="05 Validus Shield"/>
+    <wallpaper image="06_validus_9" creator="scoobyjenkins" name="06 Validus 9" />
+    <wallpaper image="07_validus_8_1a" creator="scoobyjenkins" name="07 Validus 8.1a"/>
+    <wallpaper image="07_validus_8_1b" creator="scoobyjenkins" name="07 Validus 8.1b"/>
+    <wallpaper image="07_validus_8_1c" creator="scoobyjenkins" name="07 Validus 8.1c"/>
+    <wallpaper image="07_validus_8_1d" creator="scoobyjenkins" name="07 Validus 8.1d" />
+    <wallpaper image="08_validus_run" creator="scoobyjenkins" name="08 Validus Run"/>
+    <wallpaper image="09_validus_v_1" creator="scoobyjenkins" name="09 Validus V 1"/>
+    <wallpaper image="09_validus_v_2" creator="scoobyjenkins" name="09 Validus V 2"/>
+    <wallpaper image="09_validus_v_3" creator="scoobyjenkins" name="09 Validus V 3" />
+    <wallpaper image="10_validus_teeth" creator="scoobyjenkins" name="10 Validus Teeth"/>
+    <wallpaper image="11_validus_wolf_black" creator="scoobyjenkins" name="11 Validus Wolf Black"/>
+    <wallpaper image="11_validus_wolf_brown" creator="scoobyjenkins" name="11 Validus Wolf Brown"/>
+    <wallpaper image="11_validus_wolf_grey" creator="scoobyjenkins" name="11 Validus Wolf Grey" />
+    <wallpaper image="11_validus_wolf_red" creator="scoobyjenkins" name="11 Validus Wolf Red"/>
 </wallpapers>

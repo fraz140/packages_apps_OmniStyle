@@ -76,19 +76,18 @@ TODO
 Show pack properties like type (random, list, time context) and change interval
 when selecting
 
-Omni wallpapers
+Validus wallpapers
 -----
 Using Picasso
 http://square.github.io/picasso/
 
 ## Contributors ##
-+ JP Kenji
-+ PartimusPrime
++ scoobyjenkins
 
 ## Contributing wallpapers ##
 Put images files into drawable-nodpi
 ```xml
-assets/wallpaper.xml
+assets/wallpapers.xml
 ```
 ```xml
     <wallpaper image="wall_name" creator="optional creator name" />
